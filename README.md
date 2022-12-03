@@ -4,7 +4,7 @@
 
 ## 项目
 目前，Hiyoteam有如下活跃项目:
- - [SBLang|一个简易的编程语言。(几乎是esolang)](./SBLang/)
+ - [SBLang：一个简易的编程语言。(几乎是esolang)](./SBLang/)
 
 ## 人员组成
 ### 联合创始人(名单不分先后，权限相等)
